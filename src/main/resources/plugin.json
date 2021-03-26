@@ -1,0 +1,8 @@
+{
+  "name": "ChunkyDiskRenderer",
+  "author": "alexhliu",
+  "main": "chunkydiskrenderer.ChunkyDiskRenderer",
+  "version": "0.1",
+  "targetVersion": "2.4.0",
+  "description": "A fast disk-cached octree renderer."
+}
